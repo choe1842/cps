@@ -1,0 +1,17 @@
+[
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_basics",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_redundantdef",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_vardecl",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_forstmt",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_withstmt",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_longargs",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_ignores",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_asyncfunc",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_asyncvar",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_asynccomp",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_matmul",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_strkind",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_convert_strs",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_simple_fstring",
+  "venv/Lib/site-packages/typed_ast/tests/test_basics.py::test_await_fstring"
+]
